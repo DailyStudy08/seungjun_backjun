@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-# sys.stdin = open('input.txt', 'r')
+# sys.stdin = open('input1.txt', 'r')
 
 N = int(input())
 M = int(input())
