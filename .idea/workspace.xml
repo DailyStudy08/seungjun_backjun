@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1376a17b-5c72-4556-ba65-69a1c649d519" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/220905/10026.적록색약.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220905/1107. 리모컨.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220905/16236. 아기 상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220905/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220905/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220906/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220906/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/220905/16236. 아기 상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/220906/10815.숫자 카드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/220905/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/220905/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -41,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.10026.적록색약">
+  <component name="RunManager" selected="Python.10815.숫자 카드">
     <configuration name="10026.적록색약" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10814.나이순 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10815.숫자 카드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,12 +82,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220904" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220906" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\a\OneDrive\바탕 화면\2반_알고리즘\220904\10814.나이순 정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220906/10815.숫자 카드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11651.좌표정렬하기2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16236. 아기 상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220904" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220905" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220904/11651.좌표정렬하기2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220905/16236. 아기 상어.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10815.숫자 카드" />
+        <item itemvalue="Python.16236. 아기 상어" />
         <item itemvalue="Python.10026.적록색약" />
         <item itemvalue="Python.1107. 리모컨" />
         <item itemvalue="Python.18870.좌표압축" />
-        <item itemvalue="Python.10814.나이순 정렬" />
-        <item itemvalue="Python.11651.좌표정렬하기2" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +185,8 @@
       <workItem from="1662186735615" duration="14000" />
       <workItem from="1662186751225" duration="18033000" />
       <workItem from="1662261297388" duration="7853000" />
-      <workItem from="1662367076296" duration="17098000" />
+      <workItem from="1662367076296" duration="23123000" />
+      <workItem from="1662476681852" duration="1148000" />
     </task>
     <servers />
   </component>
@@ -201,9 +212,11 @@
     <SUITE FILE_PATH="coverage/2_$25305_.coverage" NAME="25305.커트라인 커버리지 결과" MODIFIED="1662212142520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
     <SUITE FILE_PATH="coverage/2_$1427__.coverage" NAME="1427. 소트인사이드 커버리지 결과" MODIFIED="1662262070718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$2750___.coverage" NAME="2750. 수 정렬하기 커버리지 결과" MODIFIED="1662210433230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
+    <SUITE FILE_PATH="coverage/2_$16236___.coverage" NAME="16236. 아기 상어 커버리지 결과" MODIFIED="1662391455626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
     <SUITE FILE_PATH="coverage/2_$11651_2.coverage" NAME="11651.좌표정렬하기2 커버리지 결과" MODIFIED="1662266381392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$1107__.coverage" NAME="1107. 리모컨 커버리지 결과" MODIFIED="1662378775756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
     <SUITE FILE_PATH="coverage/2_$11650__.coverage" NAME="11650.좌표 정렬하기 커버리지 결과" MODIFIED="1662265250042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
+    <SUITE FILE_PATH="coverage/2_$10815__.coverage" NAME="10815.숫자 카드 커버리지 결과" MODIFIED="1662477659178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220906" />
     <SUITE FILE_PATH="coverage/2_$7568_.coverage" NAME="7568.덩치 커버리지 결과" MODIFIED="1662206112075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
     <SUITE FILE_PATH="coverage/2_$10026_.coverage" NAME="10026.적록색약 커버리지 결과" MODIFIED="1662382536022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
     <SUITE FILE_PATH="coverage/2_$.coverage" NAME="하노이탑 커버리지 결과" MODIFIED="1661919033737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220831" />
