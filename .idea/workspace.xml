@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1376a17b-5c72-4556-ba65-69a1c649d519" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/220907/14425.문자열 집합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220907/9019.DSLR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220907/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220907/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/220907/14425.문자열 집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/220907/14425.문자열 집합.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +185,7 @@
       <workItem from="1662367076296" duration="23123000" />
       <workItem from="1662476681852" duration="4749000" />
       <workItem from="1662551970720" duration="7142000" />
+      <workItem from="1662560087604" duration="491000" />
     </task>
     <servers />
   </component>
@@ -209,7 +207,7 @@
     <SUITE FILE_PATH="coverage/2_$2108_.coverage" NAME="2108.통계학 커버리지 결과" MODIFIED="1662217679350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
     <SUITE FILE_PATH="coverage/2_$9019_DSLR.coverage" NAME="9019.DSLR 커버리지 결과" MODIFIED="1662558459525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
     <SUITE FILE_PATH="coverage/2_$2231_.coverage" NAME="2231.분해합 커버리지 결과" MODIFIED="1662204550832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$14425__.coverage" NAME="14425.문자열 집합 커버리지 결과" MODIFIED="1662559862555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
+    <SUITE FILE_PATH="coverage/2_$14425__.coverage" NAME="14425.문자열 집합 커버리지 결과" MODIFIED="1662560500140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
     <SUITE FILE_PATH="coverage/2_$18870_.coverage" NAME="18870.좌표압축 커버리지 결과" MODIFIED="1662270032296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$1436_.coverage" NAME="1436.영화감독숌 커버리지 결과" MODIFIED="1662209329259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
     <SUITE FILE_PATH="coverage/2_$25305_.coverage" NAME="25305.커트라인 커버리지 결과" MODIFIED="1662212142520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
