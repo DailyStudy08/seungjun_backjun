@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1376a17b-5c72-4556-ba65-69a1c649d519" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/220909/16236. 아기 상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220909/연습문제. 계산기1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220910/연습문제1.Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220910/연습문제2. 마이쮸.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220910/연습문제2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220910/연습문제3. BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220910/전위순회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220913/11725. 트리의 부모 찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/220907/14425.문자열 집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/220907/14425.문자열 집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/220909/17086. 아기 상어2.py" beforeDir="false" afterPath="$PROJECT_DIR$/220909/17086. 아기 상어2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +47,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/a/OneDrive/바탕 화면/2반_알고리즘&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/a/OneDrive/바탕 화면/2반_알고리즘",
+    "settings.editor.selected.configurable": "MTConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.14425.문자열 집합">
-    <configuration name="10815.숫자 카드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.11725. 트리의 부모 찾기">
+    <configuration name="전위순회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +65,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220906" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220910" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220906/10815.숫자 카드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220910/전위순회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14425.문자열 집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11725. 트리의 부모 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220907" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220913" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220907/14425.문자열 집합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220913/11725. 트리의 부모 찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16236. 아기 상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="연습문제1.Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220905" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220910" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220905/16236. 아기 상어.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220910/연습문제1.Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16928. 뱀과 사다리 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="연습문제2. 마이쮸" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220906" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220910" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220906/16928. 뱀과 사다리 게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220910/연습문제2. 마이쮸.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9019.DSLR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="연습문제3. BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220907" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/220910" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220907/9019.DSLR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/220910/연습문제3. BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14425.문자열 집합" />
-        <item itemvalue="Python.9019.DSLR" />
-        <item itemvalue="Python.16928. 뱀과 사다리 게임" />
-        <item itemvalue="Python.10815.숫자 카드" />
-        <item itemvalue="Python.16236. 아기 상어" />
+        <item itemvalue="Python.11725. 트리의 부모 찾기" />
+        <item itemvalue="Python.전위순회" />
+        <item itemvalue="Python.연습문제3. BFS" />
+        <item itemvalue="Python.연습문제2. 마이쮸" />
+        <item itemvalue="Python.연습문제1.Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +194,11 @@
       <workItem from="1662476681852" duration="4749000" />
       <workItem from="1662551970720" duration="7142000" />
       <workItem from="1662560087604" duration="491000" />
+      <workItem from="1662687989036" duration="11394000" />
+      <workItem from="1662715657483" duration="8823000" />
+      <workItem from="1662804306342" duration="10079000" />
+      <workItem from="1663043402428" duration="43000" />
+      <workItem from="1663070067591" duration="3398000" />
     </task>
     <servers />
   </component>
@@ -204,25 +217,32 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2_$1_Queue.coverage" NAME="연습문제1.Queue 커버리지 결과" MODIFIED="1662776022859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220910" />
     <SUITE FILE_PATH="coverage/2_$2108_.coverage" NAME="2108.통계학 커버리지 결과" MODIFIED="1662217679350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$9019_DSLR.coverage" NAME="9019.DSLR 커버리지 결과" MODIFIED="1662558459525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
     <SUITE FILE_PATH="coverage/2_$2231_.coverage" NAME="2231.분해합 커버리지 결과" MODIFIED="1662204550832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$14425__.coverage" NAME="14425.문자열 집합 커버리지 결과" MODIFIED="1662560500140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
-    <SUITE FILE_PATH="coverage/2_$18870_.coverage" NAME="18870.좌표압축 커버리지 결과" MODIFIED="1662270032296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
+    <SUITE FILE_PATH="coverage/2_$17086___2.coverage" NAME="17086. 아기 상어2 커버리지 결과" MODIFIED="1662692810327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220909" />
+    <SUITE FILE_PATH="coverage/2_$11725____.coverage" NAME="11725. 트리의 부모 찾기 커버리지 결과" MODIFIED="1663072865968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220913" />
     <SUITE FILE_PATH="coverage/2_$1436_.coverage" NAME="1436.영화감독숌 커버리지 결과" MODIFIED="1662209329259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
+    <SUITE FILE_PATH="coverage/2_$__1.coverage" NAME="연습문제. 계산기1 커버리지 결과" MODIFIED="1662716666831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220909" />
+    <SUITE FILE_PATH="coverage/2_$16236___.coverage" NAME="16236. 아기 상어 커버리지 결과" MODIFIED="1662699294550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220909" />
+    <SUITE FILE_PATH="coverage/2_$11650__.coverage" NAME="11650.좌표 정렬하기 커버리지 결과" MODIFIED="1662265250042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
+    <SUITE FILE_PATH="coverage/2_$10026_.coverage" NAME="10026.적록색약 커버리지 결과" MODIFIED="1662382536022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
+    <SUITE FILE_PATH="coverage/2_$.coverage" NAME="전위순회 커버리지 결과" MODIFIED="1662825176490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220910" />
+    <SUITE FILE_PATH="coverage/2_$_.coverage" NAME="10814.나이순 정렬 커버리지 결과" MODIFIED="1662267896061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
+    <SUITE FILE_PATH="coverage/2_$9019_DSLR.coverage" NAME="9019.DSLR 커버리지 결과" MODIFIED="1662558459525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
+    <SUITE FILE_PATH="coverage/2_$2.coverage" NAME="연습문제2 커버리지 결과" MODIFIED="1662772856275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220910" />
+    <SUITE FILE_PATH="coverage/2_$3__BFS.coverage" NAME="연습문제3. BFS 커버리지 결과" MODIFIED="1662808149534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220910" />
+    <SUITE FILE_PATH="coverage/2_$14425__.coverage" NAME="14425.문자열 집합 커버리지 결과" MODIFIED="1662688482746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220907" />
+    <SUITE FILE_PATH="coverage/2_$2__.coverage" NAME="연습문제2. 마이쮸 커버리지 결과" MODIFIED="1662807424434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220910" />
+    <SUITE FILE_PATH="coverage/2_$18870_.coverage" NAME="18870.좌표압축 커버리지 결과" MODIFIED="1662270032296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$25305_.coverage" NAME="25305.커트라인 커버리지 결과" MODIFIED="1662212142520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
     <SUITE FILE_PATH="coverage/2_$1427__.coverage" NAME="1427. 소트인사이드 커버리지 결과" MODIFIED="1662262070718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$2750___.coverage" NAME="2750. 수 정렬하기 커버리지 결과" MODIFIED="1662210433230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$16236___.coverage" NAME="16236. 아기 상어 커버리지 결과" MODIFIED="1662391455626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
     <SUITE FILE_PATH="coverage/2_$16928____.coverage" NAME="16928. 뱀과 사다리 게임 커버리지 결과" MODIFIED="1662555083532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220906" />
     <SUITE FILE_PATH="coverage/2_$11651_2.coverage" NAME="11651.좌표정렬하기2 커버리지 결과" MODIFIED="1662266381392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$1107__.coverage" NAME="1107. 리모컨 커버리지 결과" MODIFIED="1662378775756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
-    <SUITE FILE_PATH="coverage/2_$11650__.coverage" NAME="11650.좌표 정렬하기 커버리지 결과" MODIFIED="1662265250042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
     <SUITE FILE_PATH="coverage/2_$10815__.coverage" NAME="10815.숫자 카드 커버리지 결과" MODIFIED="1662479847788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220906" />
     <SUITE FILE_PATH="coverage/2_$7568_.coverage" NAME="7568.덩치 커버리지 결과" MODIFIED="1662206112075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$10026_.coverage" NAME="10026.적록색약 커버리지 결과" MODIFIED="1662382536022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220905" />
-    <SUITE FILE_PATH="coverage/2_$.coverage" NAME="하노이탑 커버리지 결과" MODIFIED="1661919033737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220831" />
     <SUITE FILE_PATH="coverage/2_$9465_.coverage" NAME="9465.스티커 커버리지 결과" MODIFIED="1662200231019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220903" />
-    <SUITE FILE_PATH="coverage/2_$_.coverage" NAME="10814.나이순 정렬 커버리지 결과" MODIFIED="1662267896061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220904" />
   </component>
 </project>
