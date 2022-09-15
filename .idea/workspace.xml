@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1376a17b-5c72-4556-ba65-69a1c649d519" name="변경" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/220908/__init__.py" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/220913/1991. 트리 순회.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/220914/4803. 트리.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/220914/전위순회.py" afterDir="false" />
+>>>>>>> 37d2a73d28bc00e57894fca17867847790e353a4
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,15 +45,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/multicampus/Desktop/알고리즘-스터디",
+    "settings.editor.selected.configurable": "MTConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.14425.문자열 집합">
+    <configuration name="10815.숫자 카드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    "WebServerToolWindowFactoryState": "false"
+>>>>>>> 1980656994bde1ca891c4d717390e540f03180a6
   }
 }</component>
   <component name="RunManager" selected="Python.4803. 트리">
     <configuration name="전위순회 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 37d2a73d28bc00e57894fca17867847790e353a4
       <module name="2반_알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,9 +231,12 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_$__1_.coverage" NAME="전위순회 (1) 커버리지 결과" MODIFIED="1663156720200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220914" />
     <SUITE FILE_PATH="coverage/2_$1991___.coverage" NAME="1991. 트리 순회 커버리지 결과" MODIFIED="1663141971000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220913" />
     <SUITE FILE_PATH="coverage/2_$4803__.coverage" NAME="4803. 트리 커버리지 결과" MODIFIED="1663162036925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/220914" />
   </component>
+>>>>>>> 37d2a73d28bc00e57894fca17867847790e353a4
 </project>
