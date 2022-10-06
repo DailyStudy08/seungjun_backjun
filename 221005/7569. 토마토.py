@@ -6,7 +6,7 @@ from collections import deque
 # 익은 토마토 주변에 안익은 토마토가 익음
 # 방향은 위, 아래, 왼쪽, 오른쪽, 앞, 뒤
 # 전부 다 익은게 몇일 걸리는지, 단 최소 일수를 구하라(BFS)
-# 일부 칸에는 토마토가 없을수도 있다.
+# 일부 칸에는 토마토가 없을수도 있다. -1
 # 1: 익은 토마토, 0: 익지않은 토마토, -1: 없음
 
 # 상자크기(M,N)(칸), 상자의 수(H)
@@ -20,7 +20,7 @@ cnt = 0
 
 # 박스의 형태를 생각해...
 for h in range(H):
-    # 한박스
+    # 박스
     temp = []
     for n in range(N):
         temp.append(list(map(int, input().split())))
